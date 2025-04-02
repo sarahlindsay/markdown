@@ -90,12 +90,12 @@ To provide macOS users with a fast, no-frills tool for working with Markdown fil
    - Integrate JetBrains Mono font ✅
    - Configure app settings ✅
 
-2. **Editor Implementation** (In Progress)
+2. **Editor Implementation** ✅ (Completed)
    - Implement text editing ✅
    - Configure font settings ✅
    - Add file handling ✅
-   - Add keyboard shortcuts
-   - Add text size controls
+   - Add keyboard shortcuts ✅
+   - Add text size controls ✅
 
 3. **Markdown Processing** (In Progress)
    - Integrate Down parser ✅
@@ -106,7 +106,7 @@ To provide macOS users with a fast, no-frills tool for working with Markdown fil
 
 4. **Split View Implementation** ✅ (Completed)
    - Create adjustable split view ✅
-   - Add view mode toggles (full editor/preview)
+   - Add view mode toggles (full editor/preview) ✅
    - Implement view persistence
    - Add resize functionality ✅
 
@@ -122,9 +122,9 @@ To provide macOS users with a fast, no-frills tool for working with Markdown fil
    - System testing
 
 Updated Timeline: 
-- Completed: Basic App Setup, Core Split View
-- In Progress: Editor Implementation, Markdown Processing
-- Remaining: Polish & Distribution (7-10 days)
+- Completed: Basic App Setup, Editor Implementation, Core Split View
+- In Progress: Markdown Processing
+- Remaining: Polish & Distribution (5-7 days)
 
 ---
 
