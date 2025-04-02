@@ -83,42 +83,48 @@ To provide macOS users with a fast, no-frills tool for working with Markdown fil
 ---
 
 ### 5. Implementation Phases
-1. **Basic App Setup** (3-4 days)
-   - Create SwiftUI document-based app
-   - Set up window management
-   - Integrate JetBrains Mono font
-   - Configure app settings
 
-2. **Editor Implementation** (4-5 days)
-   - Implement NSTextView wrapper
-   - Set up text editing
-   - Configure font settings
-   - Add file handling
+1. **Basic App Setup** ✅ (Completed)
+   - Create SwiftUI document-based app ✅
+   - Set up window management ✅
+   - Integrate JetBrains Mono font ✅
+   - Configure app settings ✅
 
-3. **Markdown Processing** (3-4 days)
-   - Integrate Down parser
-   - Implement preview rendering
-   - Set up preview sync
-   - Basic styling
+2. **Editor Implementation** (In Progress)
+   - Implement text editing ✅
+   - Configure font settings ✅
+   - Add file handling ✅
+   - Add keyboard shortcuts
+   - Add text size controls
 
-4. **Split View Implementation** (2-3 days)
-   - Create adjustable split view
-   - Add resize functionality
+3. **Markdown Processing** (In Progress)
+   - Integrate Down parser ✅
+   - Implement preview rendering ✅
+   - Set up preview sync ✅
+   - Enhance markdown styling
+   - Add GitHub Flavored Markdown support (optional)
+
+4. **Split View Implementation** ✅ (Completed)
+   - Create adjustable split view ✅
+   - Add view mode toggles (full editor/preview)
    - Implement view persistence
-   - Add view mode toggles
+   - Add resize functionality ✅
 
-5. **Polish & Optimization** (3-4 days)
+5. **Polish & Optimization** (Not Started)
    - Implement error handling
    - Optimize performance
    - Add state persistence
    - Final testing
 
-6. **Distribution Prep** (1-2 days)
+6. **Distribution Prep** (Not Started)
    - Create DMG builder
    - Basic documentation
    - System testing
 
-Total Timeline: 16-22 days
+Updated Timeline: 
+- Completed: Basic App Setup, Core Split View
+- In Progress: Editor Implementation, Markdown Processing
+- Remaining: Polish & Distribution (7-10 days)
 
 ---
 
